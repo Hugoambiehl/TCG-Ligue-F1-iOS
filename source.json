@@ -1,0 +1,24 @@
+{
+  "name": "TCG Ligue F1",
+  "identifier": "com.liguef1.tcgLigueF1.altstore-source",
+  "apps": [
+    {
+      "name": "TCG Ligue F1",
+      "bundleIdentifier": "com.liguef1.tcgLigueF1",
+      "developerName": "Hugo",
+      "subtitle": "Jeu de cartes des pilotes de la Ligue F1",
+      "localizedDescription": "Collectionne les cartes des pilotes de ta ligue, ouvre des boosters, défie tes amis en duel et grimpe les niveaux.",
+      "iconURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/logo.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-09-11T00:00:00Z",
+          "localizedDescription": "Première version iOS.",
+          "downloadURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/ios/TCG-Ligue-F1.ipa",
+          "size": 20604846,
+          "minOSVersion": "13.0"
+        }
+      ]
+    }
+  ]
+}
