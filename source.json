@@ -11,6 +11,14 @@
       "iconURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/logo.png",
       "versions": [
         {
+          "version": "1.0.0+43",
+          "date": "2026-09-18T00:00:00Z",
+          "localizedDescription": "Boosters : fix badge NOUVEAU, cartes manquantes et doublons fantômes. Achat de booster possible depuis \"Rouvrir\". Duels : deck fiable au lancement, suivi en ligne plus réactif. Sécurité et fiabilité renforcées en coulisse.",
+          "downloadURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/ios/TCG-Ligue-F1.ipa",
+          "size": 20604768,
+          "minOSVersion": "13.0"
+        },
+        {
           "version": "1.0.0",
           "date": "2026-09-11T00:00:00Z",
           "localizedDescription": "Première version iOS.",
