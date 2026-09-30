@@ -11,20 +11,12 @@
       "iconURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/logo.png",
       "versions": [
         {
-          "version": "1.0.0+43",
-          "date": "2026-09-18T00:00:00Z",
-          "localizedDescription": "Boosters : fix badge NOUVEAU, cartes manquantes et doublons fantômes. Achat de booster possible depuis \"Rouvrir\". Duels : deck fiable au lancement, suivi en ligne plus réactif. Sécurité et fiabilité renforcées en coulisse.",
-          "downloadURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/ios/TCG-Ligue-F1.ipa",
-          "size": 20604768,
-          "minOSVersion": "13.0"
-        },
-        {
-          "version": "1.0.0",
-          "date": "2026-09-11T00:00:00Z",
-          "localizedDescription": "Première version iOS.",
-          "downloadURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/ios/TCG-Ligue-F1.ipa",
-          "size": 20604846,
-          "minOSVersion": "13.0"
+          "version": "1.3.5+47",
+          "date": "2026-09-30T13:51:22Z",
+          "localizedDescription": "Prêt pour la saison 3 :\n• Les cartes écurie affichent toutes les saisons de l'écurie (ex. « Saison 2 & 3 »).\n• Les nouvelles écuries de la saison 3 ont leurs vraies couleurs.\n• Corrections diverses.",
+          "downloadURL": "https://github.com/Hugoambiehl/TCG-Ligue-F1-iOS/releases/download/v1.3.5%2B47/TCG-Ligue-F1.ipa",
+          "size": 25333712,
+          "minOSVersion": "15.0"
         }
       ]
     }
