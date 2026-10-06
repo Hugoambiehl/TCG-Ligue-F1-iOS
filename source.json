@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/logo.png",
       "versions": [
         {
+          "version": "1.5.0",
+          "buildVersion": "50",
+          "date": "2026-10-06T10:54:53Z",
+          "localizedDescription": "• Nouvelles icônes dans toute l'app, et ta série de jours en flamme sur l'accueil.\n• Cartes écurie : une carte par saison, avec une rareté selon le classement constructeurs.\n• Affichage identique quelle que soit la taille de texte de ton téléphone.\n• Sur iPhone, la mise à jour obligatoire renvoie vers SideStore.",
+          "downloadURL": "https://github.com/Hugoambiehl/TCG-Ligue-F1-iOS/releases/download/v1.5.0%2B50/TCG-Ligue-F1.ipa",
+          "size": 26480915,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.4.0",
           "buildVersion": "49",
           "date": "2026-10-05T08:30:35Z",
