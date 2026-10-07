@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/logo.png",
       "versions": [
         {
+          "version": "1.6.1",
+          "buildVersion": "52",
+          "date": "2026-10-07T20:32:03Z",
+          "localizedDescription": "• Avant un combat, l'app te propose de composer ton deck s'il n'est pas fait ou incomplet.\n• Duel rapide : ton deck est enfin joué, au lieu de cartes tirées au hasard.\n• Duels entre amis : même présentation que contre l'IA, avec la carte adverse face cachée.\n• Le nom de la rareté s'affiche en entier sur les grandes cartes.\n• L'app reste en portrait, même en tournant le téléphone.",
+          "downloadURL": "https://github.com/Hugoambiehl/TCG-Ligue-F1-iOS/releases/download/v1.6.1%2B52/TCG-Ligue-F1.ipa",
+          "size": 27080254,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.6.0",
           "buildVersion": "51",
           "date": "2026-10-06T21:43:46Z",
