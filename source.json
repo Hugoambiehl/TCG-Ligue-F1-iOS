@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/logo.png",
       "versions": [
         {
+          "version": "1.7.0",
+          "buildVersion": "53",
+          "date": "2026-10-17T12:04:23Z",
+          "localizedDescription": "• Connexion par e-mail, et sauvegarde de ta progression si tu joues en invité.\n• Inventaire : range tes boosters et ouvre-en jusqu'à 10 d'un coup.\n• Touche une carte du récap de booster pour l'agrandir.\n• Les cartes rares sortent plus souvent.\n• Duels : l'adversaire voit chaque manche avant que tu rejoues, et le duel rapide est arbitré par le serveur.\n• Une pastille signale les duels où c'est à toi de jouer.",
+          "downloadURL": "https://github.com/Hugoambiehl/TCG-Ligue-F1-iOS/releases/download/v1.7.0%2B53/TCG-Ligue-F1.ipa",
+          "size": 24225442,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.6.1",
           "buildVersion": "52",
           "date": "2026-10-07T20:32:03Z",
