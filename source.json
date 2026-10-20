@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/logo.png",
       "versions": [
         {
+          "version": "1.8.0",
+          "buildVersion": "54",
+          "date": "2026-10-20T20:11:21Z",
+          "localizedDescription": "• Guildes : jusqu'à 10 joueurs, un objectif commun chaque semaine.\n• Duels : Best-of-3, tournoi éclair et duel à handicap.\n• Regarde en direct les duels de tes amis et encourage-les.\n• Cartes Reverse à deux faces.\n• Codes promo pendant les lives de la ligue.\n• Réactions sur l'activité, ta collection en image, historique des échanges.\n• Nouveaux dos de carte et couleurs aux niveaux 30, 40 et 50.",
+          "downloadURL": "https://github.com/Hugoambiehl/TCG-Ligue-F1-iOS/releases/download/v1.8.0%2B54/TCG-Ligue-F1.ipa",
+          "size": 24366215,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.7.0",
           "buildVersion": "53",
           "date": "2026-10-17T12:04:23Z",
