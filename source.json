@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/logo.png",
       "versions": [
         {
+          "version": "1.9.1",
+          "buildVersion": "56",
+          "date": "2026-10-21T17:28:25Z",
+          "localizedDescription": "• Cartes Immersives : un tour complet sur toi-même parcourt désormais tout le panorama.\n• Objectif communautaire : ouvre des boosters avec toute la ligue pour débloquer une carte secrète.",
+          "downloadURL": "https://github.com/Hugoambiehl/TCG-Ligue-F1-iOS/releases/download/v1.9.1%2B56/TCG-Ligue-F1.ipa",
+          "size": 24367870,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.9.0",
           "buildVersion": "55",
           "date": "2026-10-21T13:28:08Z",
