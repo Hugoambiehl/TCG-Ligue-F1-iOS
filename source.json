@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/logo.png",
       "versions": [
         {
+          "version": "1.9.0",
+          "buildVersion": "55",
+          "date": "2026-10-21T13:28:08Z",
+          "localizedDescription": "• Objectif communautaire : ouvre des boosters avec toute la ligue pour débloquer une carte secrète.\n• Elle se réclame depuis l'accueil ou ta Collection, réservée à ceux qui ont participé.",
+          "downloadURL": "https://github.com/Hugoambiehl/TCG-Ligue-F1-iOS/releases/download/v1.9.0%2B55/TCG-Ligue-F1.ipa",
+          "size": 24367578,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.8.0",
           "buildVersion": "54",
           "date": "2026-10-20T20:11:21Z",
