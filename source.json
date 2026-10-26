@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/Hugoambiehl/TCG-Ligue-F1-iOS/main/logo.png",
       "versions": [
         {
+          "version": "1.9.5",
+          "buildVersion": "60",
+          "date": "2026-10-26T13:11:49Z",
+          "localizedDescription": "• Nouveau : Profil > Confidentialité. Choisis si l'app envoie des rapports de plantage, lis les règles du jeu et signale un contenu.\n• Les comptes supprimés s'affichent désormais en « Joueur supprimé ».\n• Démarrage, catalogue et ouverture des boosters plus rapides.\n• Moins d'attente avec le serveur.\n• Corrections : sons, plantages (dont un en lâchant une carte holo).",
+          "downloadURL": "https://github.com/Hugoambiehl/TCG-Ligue-F1-iOS/releases/download/v1.9.5%2B60/TCG-Ligue-F1.ipa",
+          "size": 20925112,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.9.4",
           "buildVersion": "59",
           "date": "2026-10-24T16:40:22Z",
